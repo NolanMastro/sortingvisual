@@ -1,6 +1,6 @@
 # Sorting Algorithm Visualizer
 
-This Python script visualizes sorting algorithms using Pygame. Currently, it implements Bubble Sort and Bogosort.
+This python script visualizes sorting algorithms using pygame. Currently implements Bubble Sort and Bogosort.
 
 ## Requirements
 
